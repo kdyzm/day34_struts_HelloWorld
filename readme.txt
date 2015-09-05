@@ -1,1 +1,1 @@
-Ê¹ÓÃstruts2²âÊÔHelloWorld£¡
+ä½¿ç”¨struts2æµ‹è¯•HelloWorldï¼
